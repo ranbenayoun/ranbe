@@ -1,7 +1,7 @@
 ---
 title: 'תוכנות שמשתמשים בהם בלימודי הנדסה ביו-רפואית'
 date: 2023-10-03
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/biomed_software/
 tags:
   - לימודים
   - ביו-רפואית

@@ -1,7 +1,7 @@
 ---
 title: 'האנטומיה של גריי וחדשנות רפואית'
 date: 03-09-2025
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/GreysAnatomy_Innovation/
 tags:
   - האנטומיה של גריי
   - הנדסה ביו-רפואית
@@ -10,7 +10,7 @@ tags:
 
 <div dir="rtl" align="right">
 
-![Grey's Anatomy Innovation](/usr/src/app/images/Greys%20Anatomy.jpg)
+![Grey's Anatomy Innovation](/images/Greys%20Anatomy.jpg)
 
 # מה הקשר בין האנטומיה של גריי לחדשנות רפואית?
 

@@ -1,7 +1,7 @@
 ---
 title: 'מה עושה מהנדס ביו-רפואי?'
 date: 2024-03-08
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/biomed_work
 tags:
   - ביו-רפואית
   - עבודה

@@ -1,13 +1,15 @@
 ---
 title: 'מה עדיף ללמוד? הנדסת חשמל/מכונות או הנדסה ביורפואית?'
 date: 2025-05-06
-permalink: /posts/2014/08/blog-post-3/
+permalink: /posts/bio_elec_mech
 tags:
   - ביו-רפואית
   - חשמל
   - מכונות
 ---
 <div dir="rtl" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: auto; text-align: right;">
+
+![הנדסה ביורפואית חשמל מכונות](images/הנדסהביורפואיתמכונותחשמל.png)
 
 <p>בעקבות השאלות החוזרות בנושא בקבוצה מקרב מתעניינים בלימודים, זוהי העמדה שלי לגבי תחום הלימודים, במטרה לעזור בהתלבטות על מה ללמוד.</p>
 
