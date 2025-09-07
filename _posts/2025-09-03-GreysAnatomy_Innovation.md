@@ -1,6 +1,6 @@
 ---
 title: 'האנטומיה של גריי וחדשנות רפואית'
-date: 03-09-2025
+date: 2025-09-03
 permalink: /posts/GreysAnatomy_Innovation/
 tags:
   - האנטומיה של גריי
