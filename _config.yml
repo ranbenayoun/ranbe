@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ran's Homepage"
+title                    : "Ran"
 title_separator          : "-"
 name                     : &name "Ran Benayoun"
 description              : &description "A Biomedical Engineer, Systematic thinker, innovator and entrapreneur"
@@ -50,6 +50,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
   printables       : "https://www.printables.com/@RanBenayoun_2504145"
+  
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
