@@ -54,4 +54,5 @@ tags:
 <a href="https://avodata.labor.gov.il/Academic/1386" target="_blank">אתר עבודאטה הנדסה ביו-רפואית</a><br>
 <a href="https://avodata.labor.gov.il/Academic/1393" target="_blank">אתר עבודאטה הנדסת ביוטכנולוגיה</a>
 </p>
-<img src="/usr/src/app/images/biomed_or_biotech.png" alt="השוואה בין הנדסה ביורפואית לתחומים אחרים" style="max-width:100%; height:auto;" />
+<img src="/images/biomed_or_biotech.png" alt="השוואה בין הנדסה ביורפואית לתחומים אחרים" style="max-width:100%; height:auto;" />
+</div>

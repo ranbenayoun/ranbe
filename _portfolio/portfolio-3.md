@@ -4,7 +4,7 @@ excerpt: "what's the best courses to take?<br/>"
 collection: portfolio
 ---
 
-<div dir="rtl" align="right">
+<div dir="rtl" align="left">
 
 <p>
 Presenting my data analysis project for the best grades in the Technion's Biomedical Engineering Catalog using Cheesefork Statistics.
