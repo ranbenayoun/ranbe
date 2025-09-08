@@ -8,9 +8,6 @@ tags:
   - חדשנות
 ---
 <div style="font-family:Arial, sans-serif; line-height:1.6;">
-
-  <h1 dir="rtl">האנטומיה של גריי וחדשנות רפואית</h1>
-
   <div style="display:flex; align-items:flex-start; flex-direction:row; margin-bottom:15px;" dir="ltr">
 
   <img src="https://ranbenayoun.github.io/ranbe/images/Greys%20Anatomy.png" 

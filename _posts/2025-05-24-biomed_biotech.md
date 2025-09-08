@@ -8,7 +8,7 @@ tags:
   - לימודים
 ---
 <div style="font-family:Arial, sans-serif; line-height:1.6;">
-  <h1>"מי מתלבט פה בין הנדסה ביו-רפואית לבין הנדסת ביוטכנולוגיה?"</h1>
+  <h1 dir="rtl">"מי מתלבט פה בין הנדסה ביו-רפואית לבין הנדסת ביוטכנולוגיה?"</h1>
   <div style="display:flex; align-items:flex-start; flex-direction:row; margin-bottom:15px;" dir="ltr">
 
   <!-- תמונה משמאל -->
