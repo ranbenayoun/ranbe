@@ -7,17 +7,24 @@ tags:
   - הנדסה ביו-רפואית
   - חדשנות
 ---
+<div style="font-family:Arial, sans-serif; line-height:1.6;">
 
-<div dir="rtl" style="text-align:right; font-family:Arial, sans-serif; line-height:1.6;">
+  <h1 dir="rtl">האנטומיה של גריי וחדשנות רפואית</h1>
 
-  <h1>האנטומיה של גריי וחדשנות רפואית</h1>
+  <div style="display:flex; align-items:flex-start; flex-direction:row; margin-bottom:15px;" dir="ltr">
 
-  <img src="/images/Greys%20Anatomy.png" alt="Grey's Anatomy Innovation" style="max-width:100%; height:auto;">
+  <img src="https://ranbenayoun.github.io/ranbe/images/Greys%20Anatomy.png" 
+        alt="Grey's Anatomy Innovation" 
+        style="width:300px; height:auto; margin-right:20px;">
+
+  <!-- טקסט בצד ימין -->
+  <div dir="rtl" style="flex:1;">
 
   <h2>מה הקשר בין האנטומיה של גריי לחדשנות רפואית?</h2>
   <p>
     לאחרונה צפיתי בעונה 14 של הסדרה הנצחית <i>האנטומיה של גריי</i> (שוב).<br>
-    בעונה זו הרופאים מתחרים בתחרות חדשנות בבית החולים, וכמובן שכל אחת מהדמויות המציאה בקלות את הכלי החדשני ביותר בלי מאמץ ובלי הרבה זמן; <b>שרביט שמגלה תאים סרטניים, טיפול בגידולי מוח באמצעות אולטרסאונד, מיני-כבד בכל הגוף כתחלופה להשתלת כבד</b> ועוד.<br>
+    בעונה זו הרופאים מתחרים בתחרות חדשנות בבית החולים, וכמובן שכל אחת מהדמויות המציאה בקלות את הכלי החדשני ביותר בלי מאמץ ובלי הרבה זמן;
+    <b>שרביט שמגלה תאים סרטניים, טיפול בגידולי מוח באמצעות אולטרסאונד, מיני-כבד בכל הגוף כתחלופה להשתלת כבד</b> ועוד.<br>
     וכמובן שהרופאים עשו הכל בעצמם ולבדם תוך כדי שהם עוד רואים עשרות מטופלים אחרים.
   </p>
 
@@ -29,12 +36,16 @@ tags:
     ואם הוא לא עושה מחקר ביולוגי מעולם גם לא תהיה לו המומחיות לפתח את המודל <i>in-vitro</i> (במבחנה במעבדה) -
     כאן יכנסו לתמונה <b>מהנדסים, ביולוגים ומדענים רבים אחרים</b>, כמו למשל מהנדסים ביו-רפואיים.
   </p>
+
   <p>
     כיום אנחנו לפני עונה 22 של הסדרה.<br>
     עונה 14 נכתבה לפני יותר מ-9 שנים, בסביבות 2016, והפיתוחים הרפואיים שהוצגו שם באמת נראו פורצי דרך וחדשניים.<br>
     אבל כיום אני מכיר יותר ויותר חברות ומחקרים עדכניים שעוסקים ומהנדסים את הפתרונות הרפואיים האלה בעולם האמיתי.<br>
     והנה חלק מהן בהשוואה לנעשה בסדרה:
   </p>
+    
+  </div>
+</div>
 
   <h3>העט הפתולוגי</h3>
   <p>
@@ -92,7 +103,7 @@ tags:
   </p>
 
   <h3>המיזם ה"זוכה" - עגלות החייאה</h3>
-  <p> עגלות החייאה באופן דרמטי אופייני, כלל לא השתתפה בתחרות אך לבסוף קיבל מימון ממקור לא צפוי, היה </b>פרויקט כלל לא רשום<b> של ד"ר אריזונה רובינס, שרצתה לקדם <b>עגלות החייאה בחדרי לידה</b>. באופן אירוני, היא היחידה שבאמת עושה <b>מחקר שוק</b>, מבינה את הצורך הקליני של העולם שלה, ומשווה בין השוק האירופאי (איטלקי) לאמריקאי כדי לזהות הזדמנות - וזה מה שהוביל את המשקיעה, ד"ר הרמן, להעניק לה את הכסף לפיתוח המיזם. זה אמנם לא מוצר חדש לגמרי, היא לא עבדה עם חומרה, תוכנה או רקמות – אבל לפעמים <b>להכניס מוצר רפואי קיים לשוק חדש שצריך אותו</b> זה גם עובד. קלינית – כן. כלכלית – פחות, כי אין דרך להגן על ההמצאה באמצעות פטנט.
+  <p> עגלות החייאה באופן דרמטי אופייני, כלל לא השתתפה בתחרות אך לבסוף קיבל מימון ממקור לא צפוי, היה פרויקט כלל לא רשום של ד"ר אריזונה רובינס, שרצתה לקדם עגלות החייאה בחדרי לידה. באופן אירוני, היא היחידה שבאמת עושה מחקר שוק, מבינה את הצורך הקליני של העולם שלה, ומשווה בין השוק האירופאי (איטלקי) לאמריקאי כדי לזהות הזדמנות - וזה מה שהוביל את המשקיעה, ד"ר הרמן, להעניק לה את הכסף לפיתוח המיזם. זה אמנם לא מוצר חדש לגמרי, היא לא עבדה עם חומרה, תוכנה או רקמות – אבל לפעמים להכניס מוצר רפואי קיים לשוק חדש שצריך אותו זה גם עובד. קלינית – כן. כלכלית – פחות, כי אין דרך להגן על ההמצאה באמצעות פטנט.
   </p>
   <p>
     מכירים עוד חברות רפואיות שעושות מה שעשו ב-<i>האנטומיה של גריי</i>? או בסדרות רפואיות אחרות?
@@ -100,18 +111,18 @@ tags:
 
   <h2>מקורות</h2>
   <ol>
-    <li><a href="https://thedailytexan.com/2018/02/14/inventor-spotlight-greys-anatomy-features-a-real-life-ut-invention/" target="_blank">[1] The Daily Texan</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/MasSpec_Pen" target="_blank">[2] MasSpec Pen - Wikipedia</a></li>
-    <li><a href="https://www.mspentechnologies.com/" target="_blank">[3] MS Pen Technologies</a></li>
-    <li><a href="https://nutekmedtech.com/" target="_blank">[4] NuTek MedTech</a></li>
-    <li><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%90%D7%91%D7%AA_%D7%9C%D7%91_%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99_LVAD" target="_blank">[5] משאבת לב מלאכותי (ויקיפדיה)</a></li>
-    <li><a href="https://leviticus-cardio.com/default.html" target="_blank">[6] Leviticus Cardio</a></li>
-    <li><a href="https://www.jhltonline.org/article/S1053-2498(15)00148-5/pdf" target="_blank">[7] Journal of Heart and Lung Transplantation</a></li>
-    <li><a href="https://nc3rs.org.uk/news/mini-livers-show-promise-reduce-animal-use-science" target="_blank">[8] NC3Rs - Mini Livers</a></li>
-    <li><a href="https://www.lygenesis.com/" target="_blank">[9] LyGenesis</a></li>
-    <li><a href="https://avitamedical.com/products-recell/" target="_blank">[10] Avita Medical - RECELL</a></li>
-    <li><a href="https://insightec.com/about-us/" target="_blank">[11] Insightec</a></li>
-    <li><a href="https://scholar.google.com/scholar?start=10&q=%22MRI-guided%22++ultrasound+ablation+of+inoperable+gliomas&hl=iw&as_sdt=0,5" target="_blank">[12] Google Scholar - MRI-guided Ultrasound Ablation</a></li>
+    <li><a href="https://thedailytexan.com/2018/02/14/inventor-spotlight-greys-anatomy-features-a-real-life-ut-invention/" target="_blank">The Daily Texan</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/MasSpec_Pen" target="_blank">MasSpec Pen - Wikipedia</a></li>
+    <li><a href="https://www.mspentechnologies.com/" target="_blank">MS Pen Technologies</a></li>
+    <li><a href="https://nutekmedtech.com/" target="_blank">NuTek MedTech</a></li>
+    <li><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%90%D7%91%D7%AA_%D7%9C%D7%91_%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99_LVAD" target="_blank">משאבת לב מלאכותי (ויקיפדיה)</a></li>
+    <li><a href="https://leviticus-cardio.com/default.html" target="_blank">Leviticus Cardio</a></li>
+    <li><a href="https://www.jhltonline.org/article/S1053-2498(15)00148-5/pdf" target="_blank">Journal of Heart and Lung Transplantation</a></li>
+    <li><a href="https://nc3rs.org.uk/news/mini-livers-show-promise-reduce-animal-use-science" target="_blank">NC3Rs - Mini Livers</a></li>
+    <li><a href="https://www.lygenesis.com/" target="_blank">LyGenesis</a></li>
+    <li><a href="https://avitamedical.com/products-recell/" target="_blank">Avita Medical - RECELL</a></li>
+    <li><a href="https://insightec.com/about-us/" target="_blank">Insightec</a></li>
+    <li><a href="https://scholar.google.com/scholar?start=10&q=%22MRI-guided%22++ultrasound+ablation+of+inoperable+gliomas&hl=iw&as_sdt=0,5" target="_blank">Google Scholar - MRI-guided Ultrasound Ablation</a></li>
   </ol>
 
 </div>
