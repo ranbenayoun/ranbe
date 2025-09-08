@@ -28,7 +28,7 @@ tags:
   </div>
 
 </div>
-
+<div dir="rtl" tyle="font-family:Arial, sans-serif; line-height:1.6;">
 
 <h2>רקע</h2>
 <p>
