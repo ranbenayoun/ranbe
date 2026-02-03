@@ -12,6 +12,6 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/Ran Benayoun CV datalgo.pdf" class="btn btn--primary" download>Download CV (PDF)</a>
+  <a href="{{ base_path }}/{{ site.cv_pdf | url_encode }}" class="btn btn--primary">Download CV (PDF)</a>
   <a href="{{ base_path }}/cv/" class="btn btn--inverse">View Markdown CV</a>
 </div>
