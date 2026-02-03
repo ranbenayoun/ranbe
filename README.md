@@ -70,7 +70,11 @@ You should now be able to access the website from `localhost:4000`.
 
 ### Using the DevContainer in VS Code
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds. For desktop VS Code you need the Dev Containers extension; GitHub Codespaces includes it by default.
+
+### Using GitHub Codespaces
+
+You can test the site in GitHub Codespaces using the same Dev Container setup. Create a Codespace for this repository, wait for the container to build, then open the forwarded port 4000 from the Ports tab to view the site. No extra VS Code extensions are required in Codespaces.
 
 # Maintenance
 

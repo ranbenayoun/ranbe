@@ -18,8 +18,7 @@ main:
   #  url: /teaching/    
     
   - title: "CV"
-   # url: /cv/
-    url: /Ran Benayoun CV datalgo.pdf
+    url: /cv/
     
   - title: "Portfolio"
     url: /portfolio/
